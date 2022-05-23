@@ -3,7 +3,7 @@
 using namespace std;
 #define rep(i,a,b) for(int i=a;i<b;i++)
 int32_t main(){
-string s;cin>>s;
+string s;cin>>s;. EhAb AnD gCd
 char start = 'a';
 long long sum=0;
 for(int i=0;i<s.length();i++){

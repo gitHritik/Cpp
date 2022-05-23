@@ -10,7 +10,7 @@ if(c%2==1){
     if(c==3)
         cout<<"1/2"<<"\n";
     else
-        cout<<c<<"6"<<"\n";
+        cout<<c<<"/6"<<"\n";
     
 }else{
     if(c==4)
